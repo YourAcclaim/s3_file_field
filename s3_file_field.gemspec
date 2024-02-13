@@ -23,7 +23,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'sass-rails', '>= 3.2.5'
   gem.add_dependency 'jquery-fileupload-rails', '~> 0.4.1'
 
-  gem.add_development_dependency 'bundler', '~> 2.5.6'
+  gem.add_development_dependency 'bundler', '~> 2.3.25'
   gem.add_development_dependency 'rake'
   gem.add_development_dependency 'rspec'
   gem.add_development_dependency 'pry'
